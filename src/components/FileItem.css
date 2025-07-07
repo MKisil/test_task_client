@@ -1,0 +1,8 @@
+.filename:hover {
+  cursor: pointer;
+}
+
+.delete-file,
+.edit-file {
+  cursor: pointer;
+}
